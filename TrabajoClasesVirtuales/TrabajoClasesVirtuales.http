@@ -1,0 +1,6 @@
+@TrabajoClasesVirtuales_HostAddress = http://localhost:5224
+
+GET {{TrabajoClasesVirtuales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
